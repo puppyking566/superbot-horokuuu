@@ -1,0 +1,21 @@
+{
+  "name": "superbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security",
+    "guild": "^1.2.2",
+    "module": "^1.2.5",
+    "module.js": "^2.2.4",
+    "msg": "^1.0.0",
+    "save": "^2.3.2",
+    "ytdl-core": "^0.19.0"
+  }
+}
